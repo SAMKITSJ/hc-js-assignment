@@ -1,1 +1,1 @@
-# hc-js-assignment (GITHUB)
+# hc-js-assignment
